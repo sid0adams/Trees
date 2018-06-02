@@ -1,0 +1,16 @@
+C:\Users\sidad\Desktop\trees\18.1\bin\Debug\18.1.exe.config
+C:\Users\sidad\Desktop\trees\18.1\bin\Debug\18.1.exe
+C:\Users\sidad\Desktop\trees\18.1\bin\Debug\18.1.pdb
+C:\Users\sidad\Desktop\trees\18.1\bin\Debug\Drawing.dll
+C:\Users\sidad\Desktop\trees\18.1\bin\Debug\MyTree.dll
+C:\Users\sidad\Desktop\trees\18.1\bin\Debug\Drawing.pdb
+C:\Users\sidad\Desktop\trees\18.1\bin\Debug\MyTree.pdb
+C:\Users\sidad\Desktop\trees\18.1\obj\Debug\18.1.csprojResolveAssemblyReference.cache
+C:\Users\sidad\Desktop\trees\18.1\obj\Debug\_18._1.TreeForm.resources
+C:\Users\sidad\Desktop\trees\18.1\obj\Debug\_18._1.Properties.Resources.resources
+C:\Users\sidad\Desktop\trees\18.1\obj\Debug\18.1.csproj.GenerateResource.Cache
+C:\Users\sidad\Desktop\trees\18.1\obj\Debug\18.1.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\trees\18.1\obj\Debug\18.1.exe
+C:\Users\sidad\Desktop\trees\18.1\obj\Debug\18.1.pdb
+C:\Users\sidad\Desktop\trees\18.1\obj\Debug\_18._1.NodeChange.resources
+C:\Users\sidad\Desktop\trees\18.1\obj\Debug\_18._1.QuickCreate.resources

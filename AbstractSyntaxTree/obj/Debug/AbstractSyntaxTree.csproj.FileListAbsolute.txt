@@ -1,0 +1,6 @@
+C:\Users\sidad\Desktop\trees\AbstractSyntaxTree\bin\Debug\AbstractSyntaxTree.dll
+C:\Users\sidad\Desktop\trees\AbstractSyntaxTree\bin\Debug\AbstractSyntaxTree.pdb
+C:\Users\sidad\Desktop\trees\AbstractSyntaxTree\obj\Debug\AbstractSyntaxTree.csprojResolveAssemblyReference.cache
+C:\Users\sidad\Desktop\trees\AbstractSyntaxTree\obj\Debug\AbstractSyntaxTree.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\trees\AbstractSyntaxTree\obj\Debug\AbstractSyntaxTree.dll
+C:\Users\sidad\Desktop\trees\AbstractSyntaxTree\obj\Debug\AbstractSyntaxTree.pdb

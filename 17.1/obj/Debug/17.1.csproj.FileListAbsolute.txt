@@ -1,0 +1,12 @@
+C:\Users\sidad\Desktop\trees\17.1\bin\Debug\17.1.exe.config
+C:\Users\sidad\Desktop\trees\17.1\bin\Debug\17.1.exe
+C:\Users\sidad\Desktop\trees\17.1\bin\Debug\17.1.pdb
+C:\Users\sidad\Desktop\trees\17.1\bin\Debug\AbstractSyntaxTree.dll
+C:\Users\sidad\Desktop\trees\17.1\bin\Debug\AbstractSyntaxTree.pdb
+C:\Users\sidad\Desktop\trees\17.1\obj\Debug\17.1.csprojResolveAssemblyReference.cache
+C:\Users\sidad\Desktop\trees\17.1\obj\Debug\_17._1.SyntacticAnalysisForm.resources
+C:\Users\sidad\Desktop\trees\17.1\obj\Debug\_17._1.Properties.Resources.resources
+C:\Users\sidad\Desktop\trees\17.1\obj\Debug\17.1.csproj.GenerateResource.Cache
+C:\Users\sidad\Desktop\trees\17.1\obj\Debug\17.1.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\trees\17.1\obj\Debug\17.1.exe
+C:\Users\sidad\Desktop\trees\17.1\obj\Debug\17.1.pdb
