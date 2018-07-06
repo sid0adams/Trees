@@ -1,6 +1,6 @@
 C:\Users\sidad\Desktop\trees\MyTree\bin\Debug\MyTree.dll
 C:\Users\sidad\Desktop\trees\MyTree\bin\Debug\MyTree.pdb
-C:\Users\sidad\Desktop\trees\MyTree\obj\Debug\MyTree.csprojResolveAssemblyReference.cache
 C:\Users\sidad\Desktop\trees\MyTree\obj\Debug\MyTree.csproj.CoreCompileInputs.cache
 C:\Users\sidad\Desktop\trees\MyTree\obj\Debug\MyTree.dll
 C:\Users\sidad\Desktop\trees\MyTree\obj\Debug\MyTree.pdb
+C:\Users\sidad\Desktop\Trees\MyTree\obj\Debug\MyTree.csprojAssemblyReference.cache

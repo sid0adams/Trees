@@ -10,6 +10,7 @@ namespace MyTree
     {
         public Node Root = new Node(0);
         public int GetHeight() => Root.GetHeight();
+
         public List<int> GetWidth()
         {
             List<int> widths = new List<int>();
